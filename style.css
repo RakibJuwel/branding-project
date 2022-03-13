@@ -4,10 +4,23 @@
     background-image: url(https://mcdn.wallpapersafari.com/medium/19/90/kGC79i.png);
     
 }
-h1{
+.firstH1{
     padding-left: 100px;
     padding-top: 200px;
 }
 p{
     padding-left: 100px;
+}
+
+.second-images {
+    height: 650px;
+}
+.development{
+    margin-top: 100px;
+    background-color: rgb(190, 131, 131);
+    height: 500px;
+}
+.secondH1{
+    padding-left: 150px;
+    padding-top: 200px;
 }
