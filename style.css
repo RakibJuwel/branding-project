@@ -5,20 +5,22 @@
     
 }
 .firstH1{
-    padding-left: 100px;
-    padding-top: 200px;
+     padding-left: 100px;
+    padding-top: 100px; 
+    height: 320px;
 }
 p{
     padding-left: 100px;
 }
 
 .second-images {
-    height: 650px;
+    height: 400px;
+    padding-left: 100px;
 }
 .development{
     margin-top: 100px;
     background-color: rgb(190, 131, 131);
-    height: 500px;
+    height: 600px;
 }
 .secondH1{
     padding-left: 150px;
